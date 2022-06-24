@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(160, 106, 211);
+}
+#principal {
+    color: rgb(246, 244, 247);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(152, 54, 197);
+    text-shadow: 0 0 10px white;
+    border:8px solid purple; 
+
+}
+a {
+   align-items: center;
+   justify-content: center;
+   color: rgb(248, 248, 246);
+   background-color: rgb(129, 7, 243);
+   font-size: 20px;
+   font-family:serif;
+   border: 8px solid purple;  
+   border-radius: 90px;  
+   
+   
+   
+}
+
+main {
+    width: 300px; 
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 15px;
+}
+#texto1 {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(159, 85, 228);
+    margin-top: 2vh;
+    position:relative;
+    top: -57vh;
+    width: 400px;
+    height: 400px;
+    left: 400px;
+    border-radius: 10px;
+   
+}
+
+#textocupuacu {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #9f07f7;
+    border-radius: 10px;
+    border: 8px solid purple; 
+}
+#contato {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #9f07f7;
+    border-radius: 10px;
+    
+
+}
+/* ABAIXO ESTARÁ A ESTILIZAÇÃO DAS IMAGENS */
+
+
+#img1 {
+    margin-top: 2vh;
+    position:relative;
+    top: 0;
+    width: 400px;
+    height: 400px;
+    right: 500px;
+    border-radius: 30px;
+    border: 8px solid purple; 
+   
+  
+}
+
+#cupuacu {
+    border-radius: 50px;
+    width: 300px;
+    border: 8px solid rgb(216, 144, 9); 
+}
+#img3 {
+    width: 400px;
+    top: 0;
+    border-radius: 30px;
+    left: 30px;   
+    position: absolute;
+    margin-left: 150px;
+    bottom: 0;
+    right: 0;
+    left: 600px;
+    margin-top: 38vh;
+    border: 8px solid purple; 
+}
+#acaift {
+    border: 2px solid purple; 
+    margin-left: -10vh;
+}
+
+#Tabelas {
+    border-bottom: 2px solid white;
+    text-align: left;
+    background-color: #9f07f7;
+    color: rgb(248, 134, 4);
+    margin-left: 5vh;
+    display: block;
+   
+}
